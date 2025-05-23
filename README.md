@@ -16,8 +16,8 @@
 ## 🧪 Tools & Technologies
 
 - **CAD Software**: SolidWorks
-- **Slicing Software**: Cura
-- **3D Printer**: Prusa i3 MK3S / Creality Ender 3 (or specify)
+- **Slicing Software**: PrusaSlicer
+- **3D Printer**: Prusa i3 MK3S 
 - **Material**: PLA Filament
 
 ## 🧩 Puzzle Design
@@ -25,5 +25,4 @@
 - The puzzle contains 9 uniquely shaped pieces.
 - Designed with snap-fit joints for easy assembly.
 
-## 📦 File Structure
 
