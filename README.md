@@ -25,4 +25,10 @@
 - The puzzle contains 9 uniquely shaped pieces.
 - Designed with snap-fit joints for easy assembly.
 
+## 👥 Team Members
+- Fiyinfoluwa Oyewole
+- Jasper Wang
+- Jadiha Aruleswaran
+- Anaelle Youbissi
+- Arya Patel
 
